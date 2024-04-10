@@ -1,3 +1,4 @@
+# E-Commerce
 
 
 
@@ -15,8 +16,7 @@
 
 
 
-
-# HOW TO ADD THE CODE IN YOUR DOMAIN
+##### HOW TO ADD THE CODE IN YOUR DOMAIN
 
 
 - **Purchase a Domain:**
